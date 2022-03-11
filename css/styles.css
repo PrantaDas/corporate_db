@@ -1,4 +1,38 @@
 .bg{
     height: 100vh;
-    background-image: url(../images/Untitled\ design.png);
+    width: 100%;
+    background-image: url(../images/pexels-fauxels-3183183\ \(1\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.24);
+    background-blend-mode: overlay;
+}
+.title-font{
+    font-size: 100px;
+    font-weight: 700;
+}
+.custom-btn{
+    padding: 15px 30px;
+}
+.title-font2{
+    font-size: 70px;
+    font-weight: 700;
+    color: #BD7BFC;
+}
+.banner-right{
+    background-color: #F9F9FF;
+}
+.title-font3{
+    font-size: 60px;
+}
+.font-design{
+    color: #6135FF;
+    font-size: 60px;
+}
+.banner-title{
+    font-size: 50px;
+    font-weight: bold;
+}
+footer{
+    height: 200px;
 }
